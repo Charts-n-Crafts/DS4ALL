@@ -1,0 +1,16 @@
+name: DS4ALL
+channels:
+  - plotly
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - jupyterlab
+  - seaborn
+  - pandas
+  - cufflinks-py
+  - matplotlib
+  - python
+  - plotly
+  - jupyter
+
