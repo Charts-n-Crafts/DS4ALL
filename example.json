@@ -1,0 +1,14 @@
+[
+{
+  "key1" : "value1",
+  "key2" : "value2"
+},
+{
+"name" : "Data Science",
+"favouriteNumber" : 42,
+"isProgrammer" : true,
+"hobbies" : ["EDA", "Data Viz"]
+}
+]
+
+
