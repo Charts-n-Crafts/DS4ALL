@@ -2,7 +2,7 @@
 
 Welcome to DS4ALL, a repository of reference materials implemented primarily in Jupyter Notebooks aimed at providing a solid and interactive foundation in data science basics through a series of structured modules. Whether you're a beginner or looking to brush up on your skills, this repository offers resources on key tools and concepts in data science.
 
-If the materials are too high level, first consider finding a course of learning resource from e.g. YouTube and then referring back to these materials which should offer a quick look-up of the most important concepts.
+If the materials are too high level, first consider finding a course or learning resource from e.g. YouTube and then referring back to these materials which should offer a quick look-up of the most important concepts.
 
 ## Table of Contents
 
